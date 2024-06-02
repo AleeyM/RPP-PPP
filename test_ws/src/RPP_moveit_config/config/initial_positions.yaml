@@ -1,0 +1,10 @@
+# Default initial positions for RPP's ros2_control fake system
+
+initial_positions:
+  LINK1R: 0.0
+  LINK2P: 0.0
+  LINK3P: 0.0
+  LINK4R: 0.0
+  LINK5R: 0.0
+  LINK6R: 0.0
+  LINK7R: 0.0
